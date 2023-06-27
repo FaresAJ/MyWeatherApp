@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "myweatherlib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FaresAJ/MyWeatherLib.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "84ad2316f88e33693308711b214328f43262dcc3"
+      }
+    }
+  ],
+  "version" : 2
+}
